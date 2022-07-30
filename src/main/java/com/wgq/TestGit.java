@@ -15,5 +15,10 @@ public class TestGit {
         System.out.println("master-modify");
         System.out.println("hot-fix-modify");
         System.out.println("push commit");
+        
+         System.out.println("web");
+         System.out.println("hello");
+        
+        
     }
 }
