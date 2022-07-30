@@ -14,5 +14,6 @@ public class TestGit {
         System.out.println("hot-fix-1.0");
         System.out.println("master-modify");
         System.out.println("hot-fix-modify");
+        System.out.println("push commit");
     }
 }
