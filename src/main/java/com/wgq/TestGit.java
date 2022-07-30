@@ -12,5 +12,6 @@ public class TestGit {
         System.out.println("java");
         System.out.println("second commit");
         System.out.println("hot-fix-1.0");
+        System.out.println("master-modify");
     }
 }
